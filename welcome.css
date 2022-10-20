@@ -1,0 +1,8 @@
+.welcomeDiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.welcomeDiv h1{
+    color: green;
+}
